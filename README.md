@@ -96,3 +96,6 @@ npm run dev
 
 ---
 
+👨‍💻 Author
+
+Kalpesh Sonar (sonar-kalpesh-18)

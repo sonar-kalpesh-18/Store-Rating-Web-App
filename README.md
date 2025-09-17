@@ -80,6 +80,7 @@ cd client
 npm start
 OR
 npm run dev (React+vite)
+npm run dev -- --host (Run on any device connected to same wifi as server device)
 
 
 

@@ -78,6 +78,9 @@ Frontend (React)
 
 cd client
 npm start
+OR
+npm run dev (React+vite)
+
 
 
 Backend (Express)
